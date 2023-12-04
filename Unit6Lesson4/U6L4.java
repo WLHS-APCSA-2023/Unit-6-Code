@@ -32,10 +32,9 @@ public class U6L4 {
 	}
 
 	// return the index of the first occurence of a 
-	// specified element in an array
+	// specified element in an array, -1 if not found
 
 	// determine if there are any duplicates (existance only) return T/F
-
 
 	// determine how many times a specified element is duplicated, 
 	// if at all
@@ -48,7 +47,8 @@ public class U6L4 {
 
 	// find and return average
 
-	// find and return the mode
+
+	// find and return the mode (advanced CS A)
 
 
 	////Extra if time////
